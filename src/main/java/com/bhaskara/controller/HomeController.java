@@ -13,11 +13,11 @@ public class HomeController {
     @GetMapping
     public String home(Model model) {
         model.addAttribute("message", "Hello, World!");
-        return "index";
+        return "pages/index";
     }
 
     @PostMapping("/result")
     public String result() {
-        return "bhaskara";
+        return "pages/bhaskara";
     }
 }

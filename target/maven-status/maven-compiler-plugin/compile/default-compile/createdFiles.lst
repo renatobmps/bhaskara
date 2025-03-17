@@ -1,3 +1,4 @@
 com/bhaskara/BhaskaraApplication.class
-com/bhaskara/controller/BhaskaraCalcule.class
 com/bhaskara/controller/HomeController.class
+com/bhaskara/services/BhaskaraCalcule.class
+com/bhaskara/services/BhaskaraCalcule$DeltaEnum.class
